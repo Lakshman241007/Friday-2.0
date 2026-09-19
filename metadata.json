@@ -1,0 +1,6 @@
+{
+  "name": "FRIDAY",
+  "description": "FRIDAY — Autonomous Sales Core with Telephony Recordings, Synchronized Transcripts, AI Call Analysis, Follow-ups, Alerts, Performance Telemetry, Coaching, and Reports",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

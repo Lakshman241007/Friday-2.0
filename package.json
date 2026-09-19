@@ -1,0 +1,16 @@
+{
+  "name": "friday",
+  "private": true,
+  "version": "1.0.0",
+  "description": "FRIDAY — Foundation + Galaxy Design System",
+  "type": "module",
+  "workspaces": [
+    "frontend"
+  ],
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build && rm -rf dist && cp -r frontend/dist dist",
+    "lint": "npm --prefix frontend run lint"
+  },
+  "devDependencies": {}
+}
