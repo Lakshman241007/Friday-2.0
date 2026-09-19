@@ -90,7 +90,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
       id="friday-sidebar"
       aria-label="Main Navigation"
       className={cn(
-        'relative h-full border-r border-white/[0.08] bg-[#07070a]/85 backdrop-blur-md flex flex-col justify-between shrink-0 transition-all duration-200 z-30 select-none',
+        'sticky top-0 h-screen border-r border-white/[0.08] bg-[#07070a]/85 backdrop-blur-md flex flex-col justify-between shrink-0 transition-all duration-200 z-30 select-none',
         isCollapsed ? 'w-16 p-2' : 'w-64 p-3.5 sm:p-4',
         className
       )}

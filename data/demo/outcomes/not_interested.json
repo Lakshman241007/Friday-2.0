@@ -1,0 +1,10 @@
+{
+  "call_id": "demo-call-003",
+  "transcript_id": "demo-transcript-003",
+  "outcome": "Not Interested",
+  "confidence": 0.96,
+  "evidence": "Customer affirmed they just renewed a 3-year agreement with an incumbent provider and are not looking to switch telephony or AI platforms.",
+  "next_action": "Mark lead disposition as cold and schedule automated CRM check-in in 12 months.",
+  "model": "deterministic-demo-engine",
+  "provider": "friday-ai"
+}

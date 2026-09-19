@@ -1,0 +1,10 @@
+{
+  "call_id": "demo-call-002",
+  "transcript_id": "demo-transcript-002",
+  "outcome": "Follow-up Required",
+  "confidence": 0.91,
+  "evidence": "Customer stated they are currently evaluating options and explicitly asked to be contacted next Thursday after their quarterly budget review.",
+  "next_action": "Follow up via telephone on Thursday at 2:00 PM with security compliance checklist.",
+  "model": "deterministic-demo-engine",
+  "provider": "friday-ai"
+}

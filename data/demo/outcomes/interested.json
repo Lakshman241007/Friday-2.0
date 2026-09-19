@@ -1,0 +1,10 @@
+{
+  "call_id": "demo-call-001",
+  "transcript_id": "demo-transcript-001",
+  "outcome": "Interested",
+  "confidence": 0.94,
+  "evidence": "Customer requested pricing breakdown for 50 seats and confirmed intent to trial FRIDAY.",
+  "next_action": "Send formal enterprise proposal and schedule product onboarding session.",
+  "model": "deterministic-demo-engine",
+  "provider": "friday-ai"
+}

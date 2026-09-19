@@ -146,7 +146,7 @@ export const Topbar: React.FC<TopbarProps> = ({
       id="friday-topbar"
       role="banner"
       className={cn(
-        'h-14 w-full border-b border-white/[0.08] bg-[#07070a]/90 backdrop-blur-md sticky top-0 z-40 px-3 sm:px-6 flex items-center justify-between gap-3',
+        'h-14 w-full border-b border-white/[0.08] bg-[#07070a]/90 backdrop-blur-md sticky top-0 z-50 px-3 sm:px-6 flex items-center justify-between gap-3',
         className
       )}
     >

@@ -56,7 +56,7 @@ export const MobileNav: React.FC<MobileNavProps> = ({
   };
 
   return (
-    <div className="fixed inset-0 z-50 md:hidden flex" role="dialog" aria-modal="true">
+    <div className="fixed inset-0 z-60 md:hidden flex" role="dialog" aria-modal="true">
       {/* Backdrop */}
       <div
         className="fixed inset-0 bg-black/80 backdrop-blur-sm transition-opacity animate-in fade-in duration-200"

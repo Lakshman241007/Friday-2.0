@@ -1,0 +1,10 @@
+{
+  "call_id": "demo-call-004",
+  "transcript_id": "demo-transcript-004",
+  "outcome": "Qualified",
+  "confidence": 0.93,
+  "evidence": "Customer confirmed available $60k annual budget, VP Sales decision maker authority, and urgent Q4 migration need for 120 agents.",
+  "next_action": "Schedule executive technical architecture review with Solutions Engineering team.",
+  "model": "deterministic-demo-engine",
+  "provider": "friday-ai"
+}

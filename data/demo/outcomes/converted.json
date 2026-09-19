@@ -1,0 +1,10 @@
+{
+  "call_id": "demo-call-005",
+  "transcript_id": "demo-transcript-005",
+  "outcome": "Converted",
+  "confidence": 0.98,
+  "evidence": "Customer executed standard order form and agreed to proceed with 25-seat annual subscription starting next Monday.",
+  "next_action": "Send billing invoice, trigger welcome email sequence, and assign Dedicated Customer Success Manager.",
+  "model": "deterministic-demo-engine",
+  "provider": "friday-ai"
+}
