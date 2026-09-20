@@ -1,0 +1,12 @@
+
+from sqlalchemy import Column, Integer, String
+from app.core.database import Base
+
+
+class Role(Base):
+    """Stores the roles available in the application."""
+
+    __tablename__ = "roles"
+
+    id = Column(Integer, primary_key=True, index=True)
+    name = Column(String(50), unique=True, nullable=False)
